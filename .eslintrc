@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "max-len": ["off"],
+    "import/prefer-default-export": "off",
+    "no-undef": "off",
+    "@typescript-eslint/explicit-function-return-type": ["off"],
+    "no-use-before-define": "off",
+    "@typescript-eslint/no-use-before-define": "off",
+    "react/display-name": "off",
+    "no-shadow": "off"
+  }
+}
